@@ -4,7 +4,8 @@
 
 Faculty: Mr. Hirendra Singh Sengar  
 Course: Cryptography & Network Security (CSL0509)  
-Repository: [https://github.com/mkuruva400-dotcom/Cryptography-Lab](https://github.com/mkuruva400-dotcom/Cryptography-Lab)
+Repository: [https://github.com/mkuruva400-dotcom/Cryptography-Lab](https://github.com/mkuruva400-dotcom/Cryptography-Lab)  
+Report: [Download Complete Lab Assessment Report (PDF)](CSL0509_Lab_Report_BETN1AI24019_KS_Mohan_Babu.pdf)
 
 ---
 
